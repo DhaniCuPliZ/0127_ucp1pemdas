@@ -85,3 +85,4 @@ string statusBekasi = CekKualitasUdara(polutanBekasi1, polutanBekasi2, polutanBe
 
 //5. struct digunakan untuk menampilkan informasi mengenai data misalnya mahasiswa biasanya didefinisikan dengan 3 data yaitu nama, umur, jurusan kemudian variable mahasiswa dideklarasikan dan diisi dengan informasi mengenai mahasiswa tersebut kemduian ditampilkan menggunakan perintah cout
 
+
